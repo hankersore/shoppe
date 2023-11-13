@@ -1,0 +1,8 @@
+.blogContent {
+    display: flex;
+    gap: 50px;
+    margin-top: 150px;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}

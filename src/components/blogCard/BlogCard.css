@@ -1,0 +1,25 @@
+.date {
+    font-size: 14px;
+    color: #707070;
+    margin-top: 20px;
+}
+.blogCard h4{
+font-size: 20px;
+font-weight: 400;
+line-height: 26px;
+}
+.desc {
+    color: #707070;
+    margin: 20px 0;
+}
+.more {
+    color: #A18A68;
+    font-weight: 700;
+    cursor: pointer;
+}
+.blogCard img {
+    width: 450px;
+}
+.blogCard {
+    width: 450px;
+}

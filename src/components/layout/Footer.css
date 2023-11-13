@@ -1,0 +1,38 @@
+footer {
+    padding-top: 40px;
+    border-top: 1px solid #d8d8d8;
+    margin-top: 250px;
+    padding-bottom: 90px;
+    display: flex;
+    justify-content: space-between;
+}
+.leftside {
+    display: flex;
+    flex-direction: column;
+    gap: 47px;
+}
+.leftside ul {
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    color: #707070;
+}
+.rightside {
+    display: flex;
+    flex-direction: column;
+    gap: 47px;
+    text-align: right;
+}
+.rightside input {
+    border: none;
+    border-bottom: 1px solid #000;
+    padding-bottom: 15px;
+    width: 250px;
+    text-align: right;
+}
+.rightside div {
+    justify-content: right;
+    display: flex;
+    gap: 10px;
+    color: #707070;
+}

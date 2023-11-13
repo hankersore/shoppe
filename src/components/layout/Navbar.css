@@ -1,0 +1,32 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 65px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid #d8d8d8;
+}
+nav img {
+    width: 150px;
+}
+.nav-content {
+    display: flex;
+    align-items: center;
+}
+.nav-links {
+    display: flex;
+    gap: 65px;
+    padding-right: 48px;
+    border-right: 1px solid #707070;
+}
+.nav-icons {
+    display: flex;
+    gap: 40px;
+    margin-left: 48px;
+}
+.nav-icons i {
+    cursor: pointer;
+}
+.nav-links a.active {
+    font-weight: 700;
+    border-bottom: 1px solid #000;
+}
